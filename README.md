@@ -2,9 +2,9 @@
 
 
 
-1. [Zarządzanie modułami](#Zarządzanie modułami)
-2. [Zarządzanie pakietami](#Zarządzanie pakietami)
-3. [Zdalna administracja](#Zdalna administracja)
+1. [Zarządzanie modułami](#Zarządzanie-modułami)
+2. [Zarządzanie pakietami](#Zarządzanie-pakietami)
+3. [Zdalna administracja](#Zdalna-administracja)
 
 ### Zarządzanie modułami
 
