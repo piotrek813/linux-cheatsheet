@@ -1,7 +1,5 @@
 # Linux Cheatsheet
 
-------
-
 
 
 1. [Zarządzanie modułami](#Zarządzanie modułami)
@@ -11,9 +9,13 @@
 ### Zarządzanie modułami
 
 `lsmod` – pokaż załadowane moduły jądra
+
 `rmmod` – usuwa moduł
+
 `modprobe` – ładuje moduł
+
 `modprobe -c` wyświetla konfiguracje modułów
+
 `depmod -v` – wyswitla liste zależności pomiędzy modułami
 
 ### Zarządzanie pakietami
